@@ -1,0 +1,119 @@
+2024-05-25 23:57:22,831 - ERROR: Error fetching website content for https://savourfoods.com.pk: HTTPSConnectionPool(host='savourfoods.com.pk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'savourfoods.com.pk'. (_ssl.c:1006)")))
+2024-05-25 23:59:52,822 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/badminton/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/badminton/
+2024-05-25 23:59:56,147 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/swimming/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/swimming/
+2024-05-26 00:00:03,224 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/gymnasium/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/gymnasium/
+2024-05-26 00:00:05,969 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/riding/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/riding/
+2024-05-26 00:00:06,664 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/bridge/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/bridge/
+2024-05-26 00:00:06,722 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/tennis/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/tennis/
+2024-05-26 00:00:06,800 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/squash/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/squash/
+2024-05-26 00:00:21,475 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/billiard/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/billiard/
+2024-05-26 00:00:24,747 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/polo/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/polo/
+2024-05-26 00:00:25,632 - ERROR: Error fetching content from https://islamabadclub.org.pk/health-sports/table-tennis/: 500 Server Error: Internal Server Error for url: https://islamabadclub.org.pk/health-sports/table-tennis/
+2024-05-26 00:03:38,506 - ERROR: Error fetching content from https://kabulrestaurant.pk/wp-content/uploads/2023/01/menu-new.jpg: 404 Client Error: Not Found for url: https://kabulrestaurant.pk/wp-content/uploads/2023/01/menu-new.jpg
+2024-05-26 00:08:02,645 - ERROR: Error fetching website content for https://deranight.com: HTTPSConnectionPool(host='deranight.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000273691E0BD0>: Failed to resolve 'deranight.com' ([Errno 11001] getaddrinfo failed)"))
+2024-05-26 00:08:04,107 - ERROR: Error fetching website content for https://deranight.com: HTTPSConnectionPool(host='deranight.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002736AB30210>: Failed to resolve 'deranight.com' ([Errno 11001] getaddrinfo failed)"))
+2024-05-26 00:08:42,518 - ERROR: Error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.78); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66E921F22+60322]
+	(No symbol) [0x00007FF66E89CE99]
+	(No symbol) [0x00007FF66E757EBA]
+	(No symbol) [0x00007FF66E75DCEE]
+	(No symbol) [0x00007FF66E760641]
+	(No symbol) [0x00007FF66E7606E0]
+	(No symbol) [0x00007FF66E7AE713]
+	(No symbol) [0x00007FF66E7AD976]
+	(No symbol) [0x00007FF66E7F6027]
+	(No symbol) [0x00007FF66E7CC21A]
+	(No symbol) [0x00007FF66E7EBC80]
+	(No symbol) [0x00007FF66E7CBFC3]
+	(No symbol) [0x00007FF66E799617]
+	(No symbol) [0x00007FF66E79A211]
+	GetHandleVerifier [0x00007FF66EC3946D+3301613]
+	GetHandleVerifier [0x00007FF66EC83693+3605267]
+	GetHandleVerifier [0x00007FF66EC79410+3563664]
+	GetHandleVerifier [0x00007FF66E9D42F6+790390]
+	(No symbol) [0x00007FF66E8A74DF]
+	(No symbol) [0x00007FF66E8A33D4]
+	(No symbol) [0x00007FF66E8A3562]
+	(No symbol) [0x00007FF66E892F6F]
+	BaseThreadInitThunk [0x00007FFEDB567344+20]
+	RtlUserThreadStart [0x00007FFEDC4C26B1+33]
+. Retrying...
+2024-05-26 00:08:42,571 - ERROR: Error scrolling: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=125.0.6422.78); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66E921F22+60322]
+	(No symbol) [0x00007FF66E89CE99]
+	(No symbol) [0x00007FF66E757EBA]
+	(No symbol) [0x00007FF66E75DCEE]
+	(No symbol) [0x00007FF66E760641]
+	(No symbol) [0x00007FF66E7606E0]
+	(No symbol) [0x00007FF66E7AE713]
+	(No symbol) [0x00007FF66E7AD976]
+	(No symbol) [0x00007FF66E7F6027]
+	(No symbol) [0x00007FF66E7CC21A]
+	(No symbol) [0x00007FF66E7EBC80]
+	(No symbol) [0x00007FF66E7CBFC3]
+	(No symbol) [0x00007FF66E799617]
+	(No symbol) [0x00007FF66E79A211]
+	GetHandleVerifier [0x00007FF66EC3946D+3301613]
+	GetHandleVerifier [0x00007FF66EC83693+3605267]
+	GetHandleVerifier [0x00007FF66EC79410+3563664]
+	GetHandleVerifier [0x00007FF66E9D42F6+790390]
+	(No symbol) [0x00007FF66E8A74DF]
+	(No symbol) [0x00007FF66E8A33D4]
+	(No symbol) [0x00007FF66E8A3562]
+	(No symbol) [0x00007FF66E892F6F]
+	BaseThreadInitThunk [0x00007FFEDB567344+20]
+	RtlUserThreadStart [0x00007FFEDC4C26B1+33]
+. Exiting...
+2024-05-26 23:26:32,438 - ERROR: Error fetching website content for https://pbkonline.com: 403 Client Error: Forbidden for url: https://pbkonline.com/
+2024-05-26 23:26:34,054 - ERROR: Error fetching website content for https://pbkonline.com: 403 Client Error: Forbidden for url: https://pbkonline.com/
+2024-05-26 23:27:13,517 - ERROR: Error fetching website content for https://papaspankebab.com: HTTPSConnectionPool(host='papaspankebab.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C5867E6810>: Failed to resolve 'papaspankebab.com' ([Errno 11001] getaddrinfo failed)"))
+2024-05-26 23:27:23,422 - ERROR: Error fetching content from https://ubereats.com/?mod=selectLanguage&ps=1: 429 Client Error: Too Many Requests for url: https://ubereats.com/?mod=selectLanguage&ps=1
+2024-05-26 23:27:23,837 - ERROR: Error fetching content from https://ubereats.com/location#all-countries: 429 Client Error: Too Many Requests for url: https://ubereats.com/location#all-countries
+2024-05-26 23:27:24,274 - ERROR: Error fetching content from https://ubereats.com/pickup/near-me: 429 Client Error: Too Many Requests for url: https://ubereats.com/pickup/near-me
+2024-05-26 23:28:06,573 - ERROR: Error fetching website content for https://bismillahrestaurant.co.uk: 403 Client Error: Forbidden for url: https://bismillahrestaurant.co.uk/
+2024-05-26 23:28:22,071 - ERROR: Error fetching website content for https://greeneking.co.uk: 403 Client Error: Forbidden for url: https://www.greeneking.co.uk:443/
+2024-05-26 23:28:24,364 - ERROR: Error fetching website content for https://darbona.co.uk: HTTPSConnectionPool(host='darbona.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'darbona.co.uk'. (_ssl.c:1006)")))
+2024-05-26 23:28:28,022 - ERROR: Error fetching website content for https://chickenguystakeaway.com: 403 Client Error: Forbidden for url: https://chickenguystakeaway.com/
+2024-05-26 23:29:02,178 - ERROR: Error fetching website content for https://hungryhorse.co.uk: 403 Client Error: Forbidden for url: https://www.hungryhorse.co.uk:443/
+2024-05-26 23:30:47,073 - ERROR: Error fetching website content for https://kfc.co.uk: 403 Client Error: Forbidden for url: https://kfc.co.uk/
+2024-05-26 23:31:14,864 - ERROR: Error fetching website content for https://darbona.co.uk: HTTPSConnectionPool(host='darbona.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'darbona.co.uk'. (_ssl.c:1006)")))
+2024-05-26 23:31:43,732 - ERROR: Error fetching website content for https://samschicken.co.uk: HTTPSConnectionPool(host='samschicken.co.uk', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001C5873A54D0>, 'Connection to samschicken.co.uk timed out. (connect timeout=10)'))
+2024-05-26 23:31:48,578 - ERROR: Error fetching website content for https://royalnawaab.com: 403 Client Error: Forbidden for url: https://royalnawaab.com/
+2024-05-26 23:32:03,169 - ERROR: Error fetching content from https://ubereats.com/?mod=selectLanguage&ps=1: 429 Client Error: Too Many Requests for url: https://ubereats.com/?mod=selectLanguage&ps=1
+2024-05-26 23:33:05,612 - ERROR: Error fetching website content for https://chickenvalley.co.uk: 500 Server Error: Internal Server Error for url: https://chickenvalley.co.uk/
+2024-05-26 23:33:10,164 - ERROR: Error fetching website content for https://linebuys.pw: 403 Client Error: Forbidden for url: https://linebuys.pw/
+2024-05-26 23:33:25,416 - ERROR: Error fetching website content for https://subway.co.uk: HTTPSConnectionPool(host='www.subway.com', port=443): Read timed out. (read timeout=10)
+2024-05-26 23:33:38,146 - ERROR: Error fetching website content for https://subway.co.uk: HTTPSConnectionPool(host='www.subway.com', port=443): Read timed out. (read timeout=10)
+2024-05-26 23:33:42,542 - ERROR: Error fetching website content for https://dominos.co.uk: 403 Client Error: Forbidden for url: https://www.dominos.co.uk/
+2024-05-26 23:33:45,922 - ERROR: Error fetching website content for https://kfc.co.uk: 403 Client Error: Forbidden for url: https://kfc.co.uk/
+2024-05-26 23:33:57,321 - ERROR: Error fetching website content for https://germandonerkebab.com: 500 Server Error:  for url: https://www.germandonerkebab.com/
+2024-05-26 23:34:17,411 - ERROR: Error fetching website content for https://doortodoorpizza.co.uk: 403 Client Error: Forbidden for url: https://doortodoorpizza.co.uk/
+2024-05-26 23:35:32,751 - ERROR: Error fetching website content for https://craftunionpubs.com: HTTPSConnectionPool(host='craftunionpubs.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-05-26 23:35:34,834 - ERROR: Error fetching website content for https://hasoungrill.co.uk: 403 Client Error: Forbidden for url: https://hasoungrill.co.uk/
+2024-05-26 23:35:41,418 - ERROR: Error fetching website content for https://raunkapunjabdiyan.co.uk: HTTPSConnectionPool(host='raunkapunjabdiyan.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2024-05-26 23:35:55,069 - ERROR: Error fetching content from https://china-kitchen-london.edan.io/contact-more: 410 Client Error: Gone for url: https://china-kitchen-london.edan.io/contact-more
+2024-05-26 23:36:58,899 - ERROR: Error fetching website content for https://pizzapitshangerlane.com: HTTPSConnectionPool(host='pizzapitshangerlane.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1006)')))
+2024-05-26 23:37:26,096 - ERROR: Error fetching website content for https://social.quandoo.com: 404 Client Error: Not Found for url: https://social.quandoo.com/
+2024-05-26 23:38:31,058 - ERROR: Error fetching website content for https://samratrestaurant.co.uk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-05-27 00:13:54,124 - ERROR: Error fetching content from https://arshfoundation.org/@arsh_foundation: 404 Client Error: Not Found for url: https://arshfoundation.org/@arsh_foundation
+2024-05-27 00:13:56,727 - ERROR: Error fetching content from https://arshfoundation.org/qurbani-animal-sacrifies: 404 Client Error: Not Found for url: https://arshfoundation.org/qurbani-animal-sacrifies
+2024-05-27 00:16:17,802 - ERROR: Error fetching website content for https://transnoah.org: HTTPSConnectionPool(host='transnoah.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)')))
+2024-05-27 00:16:50,192 - ERROR: Error fetching content from 
+                        https://youngealingfoundation.org.uk/partners
+                    : 403 Client Error: Forbidden for url: https://youngealingfoundation.org.uk/partners%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
+2024-05-27 00:16:53,283 - ERROR: Error fetching content from 
+                        https://youngealingfoundation.org.uk/about-us
+                    : 403 Client Error: Forbidden for url: https://youngealingfoundation.org.uk/about-us%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
+2024-05-27 00:16:53,519 - ERROR: Error fetching content from 
+                        https://youngealingfoundation.org.uk/join-us
+                    : 403 Client Error: Forbidden for url: https://youngealingfoundation.org.uk/join-us%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
+2024-05-27 00:17:02,336 - ERROR: Error fetching content from 
+                        https://youngealingfoundation.org.uk/our-members
+                    : 403 Client Error: Forbidden for url: https://youngealingfoundation.org.uk/our-members%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
+2024-05-27 00:17:42,867 - ERROR: Error fetching website content for https://niachildrensfoundation.org: HTTPSConnectionPool(host='niachildrensfoundation.org', port=443): Read timed out. (read timeout=10)
+2024-05-27 00:19:57,047 - ERROR: Error fetching website content for https://ealingfamiliesdirectory.org.uk: HTTPSConnectionPool(host='ealingfamiliesdirectory.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9B44CE190>: Failed to resolve 'ealingfamiliesdirectory.org.uk' ([Errno 11001] getaddrinfo failed)"))
+2024-05-27 00:19:58,341 - ERROR: Error fetching website content for https://ealingfamiliesdirectory.org.uk: HTTPSConnectionPool(host='ealingfamiliesdirectory.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9B4281A50>: Failed to resolve 'ealingfamiliesdirectory.org.uk' ([Errno 11001] getaddrinfo failed)"))
